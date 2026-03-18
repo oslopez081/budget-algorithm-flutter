@@ -27,6 +27,9 @@ Currently, this implementation focuses on **Algorithmic Logic** over data persis
 * **NoSQL (Document-based):** For high scalability and flexibility with unstructured financial data, integrating a NoSQL solution like **MongoDB** or **Firestore** would be ideal (IBM, 2019).
 * **Relational (RDBMS):** Alternatively, for strict data integrity and **ACID properties** (Atomicity, Consistency, Isolation, Durability), a relational model using **PostgreSQL** would ensure transactional safety (Vidhya et al., 2016).
 
+* <img width="559" height="562" alt="image" src="https://github.com/user-attachments/assets/b03b2ec4-615b-4346-bfee-1f369b3069f0" />
+
+
 ---
 
 ## Technical Bibliography
